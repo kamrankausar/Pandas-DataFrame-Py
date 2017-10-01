@@ -150,3 +150,18 @@ o/p = Chris bought 4 item(s) at a price of 3.24 each for a total of 12.96
 # Unpacking in Python
 x = ("Md", 'kamran', 'kausar')
 f_name, m_name, l_name = x
+
+
+# Series 
+  *Series is a cross between a list and Dictionary
+  *Easy way to visualize this is two columns of data.
+  *The first is the special index, a lot like the dictionary keys.
+  *While the second is your actual data.
+  *It's important to note that the data column has a label of its own and can be retrieved using the ".name attribute".
+  *This is different than with dictionaries and is useful when it comes to merging multiple columns of data.
+  # See the Series Object
+   * > import pandas as pd
+   * > pd.Series?
+   *Underneath panda stores series values in a typed array using the numpy library.This offers significant speed-up when processing data versus traditional python lists. 
+# Handle missing values
+> See Jupyter Note book for further details
