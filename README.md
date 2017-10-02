@@ -18,3 +18,9 @@
 3.  Analyze data with groupby and understand categorical variables
 4.  Produce the entire process of data source to elucidation
 5.  Examine the data by manipulating, cutting, and applying aggregate functions to DataFrames
+
+# Week 4 Learning Objectives
+
+    Identify your understanding of basic statistics
+    Recognize different distributions such as binomial, uniform, normal, and chi-squared
+    Interpret data to evaluate hypothesis tests
