@@ -1,0 +1,1 @@
+DataFrame.to_csv('output.csv', index = False)
