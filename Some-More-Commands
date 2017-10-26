@@ -1,0 +1,2 @@
+-> dataFrame.columnname.value_counts() # Count unique features and its counts. It has 3 part- 1.dataframe name, 2.name of column of the 
+dataframe, 3 function- value_counts()
